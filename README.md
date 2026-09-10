@@ -7,3 +7,19 @@
 2. Акцентный `118AB2`
 3. Текст `F2F2ED`
 4. Дополнительный `7CD5C7`
+
+## Основное
+
+Название: Go Explore
+
+Шрифт: `Righteous`
+
+## Логотип
+
+### С текстом
+
+<img width="760" height="759" alt="Лого 1" src="https://github.com/user-attachments/assets/d2cc0176-aa39-4390-a000-5853a5e83136" />
+
+### Иконка
+
+<img width="760" height="759" alt="Лого 2" src="https://github.com/user-attachments/assets/3b6d987a-abbe-4e7f-973d-70756563f248" />
