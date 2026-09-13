@@ -16,8 +16,8 @@
 
 ### С текстом
 
-<img width="250" height="250" alt="Лого 1" src="https://github.com/user-attachments/assets/d2cc0176-aa39-4390-a000-5853a5e83136" />
+<img width="250" height="250" alt="Лого 1" src="https://github.com/user-attachments/assets/e4f4ac81-3ea6-43f6-a108-8039783e0e8f" />
 
 ### Иконка
 
-<img width="250" height="250" alt="Лого 2" src="https://github.com/user-attachments/assets/3b6d987a-abbe-4e7f-973d-70756563f248" />
+<img width="250" height="250" alt="Лого 2" src="https://github.com/user-attachments/assets/688a578e-42a2-492b-8f1c-ffac688e5866" />
